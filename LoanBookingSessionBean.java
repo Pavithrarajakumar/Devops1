@@ -9,7 +9,7 @@ public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
 public static void printPattern(int n)  
-{  
+}  
 //detrmines the boundary size of the array  
 int size = 2 * n - 1;  
 //inner loop  
